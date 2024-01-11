@@ -11,21 +11,23 @@
 
 
 == Education
+
 #cventry(
   tl: "Southeast University",
-  tr:  "2021/09 - 2025/06 (Expected)",
+  tr: "2021/09 - 2025/06 (Expected)",
   bl: "Ph.D in Electrical Engineering",
-  br: "Najing, Jiangsu, China"
+  br: "Najing, Jiangsu, China",
 )[
   - 2023 Wiscom System Scholarship
   - 1st Prize Academic Scholarship
   - 2023 CIEEC Best Paper Award
 ]
+
 #cventry(
   tl: "Southeast University",
   tr: "2018/09 - 2021/06",
   bl: "Master in Electrical Engineering",
-  br: "Najing, Jiangsu, China"
+  br: "Najing, Jiangsu, China",
 )[
   - 2022 Outstanding Master Degree Theis in Jiangsu Province
   - 1st Prize in IEEE IAS CMD Theis Contest (non-Ph. D)
@@ -36,11 +38,13 @@
   tr: "2014/09 - 2018/06",
   bl: "B.Eng in Electrical Engineering",
   br: "Najing, Jiangsu, China"
-)
+)[
+  - 2nd Prize in Southeast University Smart Car Competition
+]
 
 == Research Publication
 #cventry(
-  tl: "Transaction/Journal Paper 1st/Corresponding Author"
+  tl: "Transaction/Journal Paper 1st/Corresponding Author",
 )[
   - *W. Zhang*, W. Hua, Z. Wu, G. Zhao, Y. Wang and W. Xia, "Analysis of DC Winding Induced Voltage in Wound-Field Flux-Switching Machine With Air-Gap Field Modulation Principle," in IEEE Transactions on Industrial Electronics, vol. 69, no. 3, pp. 2300-2311, March 2022, doi: 10.1109/TIE.2021.3068684.
   - *W. Zhang* et al., "Reduction of Open-Circuit DC Winding Induced Voltage and Torque Pulsation in the Wound Field Switched Flux Machine by Stator Axial Pairing of Tooth Tips," in IEEE Transactions on Industry Applications, vol. 58, no. 2, pp. 1976-1990, March-April 2022, doi: 10.1109/TIA.2022.3143777.
