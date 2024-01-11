@@ -30,7 +30,7 @@
   br: "Najing, Jiangsu, China",
 )[
   - 2022 Outstanding Master Degree Theis in Jiangsu Province
-  - 1st Prize in IEEE IAS CMD Theis Contest (non-Ph. D)
+  - 1st Prize in IEEE IAS CMD Thesis Contest (non-Ph. D)
 ]
 
 #cventry(
