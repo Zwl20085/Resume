@@ -19,7 +19,7 @@
   br: "Najing, Jiangsu, China",
 )[
   - 2023 Wiscom System Scholarship
-  - 1st Prize Academic Scholarship
+  - 1#super[st] Prize Academic Scholarship
   - 2023 CIEEC Best Paper Award
 ]
 
@@ -30,7 +30,7 @@
   br: "Najing, Jiangsu, China",
 )[
   - 2022 Outstanding Master Degree Theis in Jiangsu Province
-  - 1st Prize in IEEE IAS CMD Thesis Contest (non-Ph. D)
+  - 1#super[st] Prize in IEEE IAS CMD Thesis Contest (non-Ph. D)
 ]
 
 #cventry(
@@ -39,7 +39,7 @@
   bl: "B.Eng in Electrical Engineering",
   br: "Najing, Jiangsu, China"
 )[
-  - 2nd Prize in Southeast University Smart Car Competition
+  - 2#super[nd] Prize in Southeast University Smart Car Competition
 ]
 
 == Research Publication
