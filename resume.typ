@@ -46,7 +46,7 @@
 
 == Research Publication
 #cventry(
-  tl: "Transaction/Journal Paper 1st/Corresponding Author",
+  tl: "Transaction/Journal Paper",
   tr: " ",
 )[
   - *W. Zhang*, W. Hua, Z. Wu, G. Zhao, Y. Wang and W. Xia, "Analysis of DC Winding Induced Voltage in Wound-Field Flux-Switching Machine With Air-Gap Field Modulation Principle," in *IEEE Transactions on Industrial Electronics*, vol. 69, no. 3, pp. 2300-2311, March 2022, doi: 10.1109/TIE.2021.3068684.
@@ -55,13 +55,9 @@
   - *W. Zhang*, Z. Wu, L. Jin, Y. Fan, W. Hua and M. Cheng, "Analysis and Multi-Objective Optimization of the Hybrid Excitation Switched Flux Machine," in *IEEE Transactions on Industry Applications*, doi: 10.1109/TIA.2025.3532244.
   - *W. Zhang*, Z. Wu, Y. Fan, W. Hua and M. Cheng, "Analysis and Improvement of DC Winding Current Dynamics in Wound Field Switched Flux Machine," in *IEEE Transactions on Industry Applications*, vol. 60, no. 4, pp. 6023-6032, July-Aug. 2024, doi: 10.1109/TIA.2024.3381108.
   - *W. Zhang*, Z. Wu and W. Hua, "Design of n-Layer Flat Wire Winding in Permanent Magnet Machine for Electric Vehicles," in *IEEE Transactions on Transportation Electrification*, doi: 10.1109/TTE.2025.3532407.
+  - *W. Zhang*, Z. Wu, L. Jin, Y. Fan, W. Hua and M. Cheng, "Analysis and Multi-Objective Optimization of the Hybrid Excitation Switched Flux Machine," in *IEEE Transactions on Industry Applications*, vol. 61, no. 2, pp. 2996-3006, March-April 2025, doi: 10.1109/TIA.2025.3532244.
+  - *W. Zhang*, Z. Wu, L. Jin, Y. Fan, W. Hua and M. Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," in *IEEE Transactions on Industry Applications*. (accepted)
   - *W. Zhang*; Y. Fan.; Z. Q. Zhu; Z. Wu; W. Hua; M. Cheng. Analysis of DC Winding Induced Voltage in Wound-Rotor Synchronous Machines by Using the Air-Gap Field Modulation Principle. *World Electr. Veh. J.* 2022, 13, 215. https://doi.org/10.3390/wevj13110215
-]
-
-#cventry(
-  tl: "Transaction/Journal Paper Other",
-  tr: " ",
-)[
   - Z. Wu, *W. Zhang*, Y. Fan, W. Hua and M. Cheng, "A Transient-State Lumped Parameter Thermal Model for Brushless Wound Field Switched Flux Machines," in *IEEE Transactions on Transportation Electrification*, doi: 10.1109/TTE.2023.3253170.
   - Z. Wu, Z. Q. Zhu, C. Wang, W. Hua, K. Wang and *W. Zhang*, "Influence of rotor iron bridge position on DC-winding-induced voltage in wound field switched flux machine having partitioned stators," in *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 20-28, Sept. 2021, doi: 10.23919/CJEE.2021.000022.
   - Z. Wu, Z. Q. Zhu, S. Cai, W. Hua and *W. Zhang*, "Enhancement of torque density in wound field switched flux machines with partitioned stators using assisted ferrites," in *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 42-51, Sept. 2021, doi: 10.23919/CJEE.2021.000024.
