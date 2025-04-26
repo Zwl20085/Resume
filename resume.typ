@@ -5,10 +5,13 @@
 
 = Wentao Zhang
 
-#link("zhangwentaoseu@outlook.com")[E-mail:zhangwentaoseu@ outlook.com] |
-#link("https://github.com/zwl20085")[Github] |
-#link("https://scholar.google.com/citations?user=NBSq6aUAAAAJ&hl=en")[GoogleScholar] |
-#link("https://www.researchgate.net/profile/Wentao-Zhang-41")[Researchgate]
+
+
+- E-mail: zhangwentaoseu@\u{200B}outlook.com · Tel: (+86) 158-5060-7771
+- Date of Birth: Nov. 1995 · Address: Nanjing, China 
+
+
+
 
 
 == Education
@@ -16,13 +19,11 @@
 #cventry(
   tl: "Southeast University",
   tr: "2021/09 - 2025/09 (Expected)",
-  bl: "Ph.D in Electrical Engineering",
+  bl: "Ph. D. in Electrical Engineering",
   br: "Najing, Jiangsu, China",
 )[
-  - 2023 Wiscom System Scholarship
-  - 1#super[st] Prize Academic Scholarship
-  - 2023 CIEEC Best Paper Award
-  - 2#super[nd] Prize in 11#super[th] Energy Equipment Innovative Design Competition for China Postgraduate
+  - Dissertation Title: "Multi-physics Analysis and Design of Flat Wire Winding PM machines in Electric Vehicles"
+
 ]
 
 #cventry(
@@ -31,8 +32,8 @@
   bl: "Master in Electrical Engineering",
   br: "Najing, Jiangsu, China",
 )[
-  - 2022 Outstanding Master Degree Theis in Jiangsu Province
-  - 1#super[st] Prize in IEEE IAS CMD Thesis Contest (non-Ph. D)
+  - Dissertation Title: "Analysis and Design of High-Performance Woudn-Exicited Magnetic Field Modulation-based Brushless Machines"
+
 ]
 
 #cventry(
@@ -41,7 +42,7 @@
   bl: "B.Eng in Electrical Engineering",
   br: "Najing, Jiangsu, China"
 )[
-  - 2#super[nd] Prize in Southeast University Smart Car Competition
+
 ]
 
 == Research Publication
@@ -126,5 +127,14 @@
 
 
 ]
+
+== Awards
+- 2024 2#super[nd] Prize in 11#super[th] Energy Equipment Innovative Design Competition for China Postgraduate
+- 2023 *Wiscom System Scholarship*
+- 2023 1#super[st] Prize Academic Scholarship
+- 2023 CIEEC Best Paper Award
+- 2023 *1#super[st] Prize in IEEE IAS CMD Thesis Contest (non-Ph. D)*
+- 2022 Outstanding Master Degree Theis in Jiangsu Province
+- 2017 2#super[nd] Prize in Southeast University Smart Car Competition
 
 #align(right, text(fill: gray)[Last Updated on #today()])
