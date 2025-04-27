@@ -45,11 +45,9 @@
   - Dissertation Title: "Comparative Study of Control Systems for PM Machine in Electric Vehicles"
 ]
 == Research Experience
-#h(2em)This is a paragraph that begins with two spaces. 
-The function at the beginning adds horizontal space equivalent to two em spaces, 
-which is approximately the width of two spaces in the current font. This allows you to create indentation or spacing at the beginning of your paragraph without relying on literal spaces, which might be collapsed in some contexts.
+#h(1em)*My research focuses on the multi-physics design, analysis and control of the high power/torque density electric machine system applied in electric vehicles (EVs)*, including the flat wire PM machines and wound field excited machines. Twenty one IEEE Transaction papers have been published and two more are under review. In general, my research can be divided into three parts.
 
-#h(2em)This is a paragraph that begins with two spaces. The function at the beginning adds horizontal space equivalent to two em spaces, which is approximately the width of two spaces in the current font. This allows you to create indentation or spacing at the beginning of your paragraph without relying on literal spaces, which might be collapsed in some contexts.
+#h(1em)*The first part is the design methods for the high-performance electric machines in EVs*, including the novel n-layer flat wire winding design and performance evaluation, DC winding induced voltage analysis and suppression for the wound excited electric machines and mechanism driven multi-objective optimization methods. *The second part is the advanced cooling system design and analysis for the electric machines in EVs*, both high resolution lumped parameter thermal model and the fluid-solid strong coupled oil cooling system are developed for the EV used electric machines. *The third part is the control and dynamic modeling for the electric machine system in EVs*, in which the control strategy, converter characteristics and the spatial harmonic electric machine model have been applied.
 
 == Research Publication
 #cventry(
@@ -67,6 +65,8 @@ which is approximately the width of two spaces in the current font. This allows 
   [*W. Zhang*, Z. Wu, L. Jin, Y. Fan, W. Hua and M. Cheng, "Analysis and Multi-Objective Optimization of the Hybrid Excitation Switched Flux Machine," *IEEE Trans. Ind Appl.*, vol. 61, no. 2, pp. 2996-3006, March-April 2025.],
   [*W. Zhang*, Z. Wu, L. Jin, Y. Fan, W. Hua and M. Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," *IEEE Trans. Ind Appl.*. (accepted).],
   [*W. Zhang*; Y. Fan.; Z. Q. Zhu; Z. Wu; W. Hua; M. Cheng. "Analysis of DC Winding Induced Voltage in Wound-Rotor Synchronous Machines by Using the Air-Gap Field Modulation Principle." *World Electr. Veh. J.* 2022, 13, 215.],
+  [*W. Zhang*, Z. Wu and W. Hua, "Space-Resolved Lumped Parameter Thermal Model for Oil-Cooling Flat Wire Winding PM Machines," *IEEE Trans. Ind Appl.* (under review)],
+  [Z. Wu, *W. Zhang*, and W. Hua, "Performance Evaluation of Flat Wire Windings for Permanent Magnet Machines in Electric Vehicles," *IEEE Trans. Ind. Electron.* (under review)],
   [Z. Wu, *W. Zhang*, Y. Fan, W. Hua and M. Cheng, "A Transient-State Lumped Parameter Thermal Model for Brushless Wound Field Switched Flux Machines," *IEEE Trans. Transport. Electrific.*, vol. 10, no. 1, pp. 224-238, March 2024.],
   [Z. Wu, Z. Q. Zhu, C. Wang, W. Hua, K. Wang and *W. Zhang*, "Influence of rotor iron bridge position on DC-winding-induced voltage in wound field switched flux machine having partitioned stators," *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 20-28, Sept. 2021.],
   [Z. Wu, Z. Q. Zhu, S. Cai, W. Hua and *W. Zhang*, "Enhancement of torque density in wound field switched flux machines with partitioned stators using assisted ferrites," *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 42-51, Sept. 2021.],
