@@ -45,7 +45,9 @@
 
 ]
 == Research Experience
+#h(2em)This is a paragraph that begins with two spaces. The function at the beginning adds horizontal space equivalent to two em spaces, which is approximately the width of two spaces in the current font. This allows you to create indentation or spacing at the beginning of your paragraph without relying on literal spaces, which might be collapsed in some contexts.
 
+#h(2em)This is a paragraph that begins with two spaces. The function at the beginning adds horizontal space equivalent to two em spaces, which is approximately the width of two spaces in the current font. This allows you to create indentation or spacing at the beginning of your paragraph without relying on literal spaces, which might be collapsed in some contexts.
 
 == Research Publication
 #cventry(
