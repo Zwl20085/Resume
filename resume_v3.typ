@@ -45,7 +45,7 @@
   - Dissertation Title: "Comparative Study of Control Systems for PM Machine in Electric Vehicles"
 ]
 == Research Experience
-#h(1em)*My research focuses on the multi-physics design, analysis and control of the high power/torque density electric machine system applied in electric vehicles (EVs)*, including the flat wire PM machines and wound field excited machines. Eighteen IEEE Transactions papers have been published and two more are under review. In general, my research can be divided into three parts.
+#h(1em)*My research focuses on the multi-physics design, analysis and control of the high power/torque density electric machine system applied in electric vehicles (EVs)*, including the flat wire PM machines and wound field excited machines. Eighteen IEEE Transactions papers have been published and three more are under review. In general, my research can be divided into three parts.
 
 #h(1em)*The first part is the design methods for the high-performance electric machines in EVs*, including the novel n-layer flat wire winding design and performance evaluation, DC winding induced voltage analysis and suppression for the wound excited electric machines and mechanism driven multi-objective optimization methods. *The second part is the advanced cooling system design and analysis for the electric machines in EVs*, both high resolution lumped parameter thermal model and the fluid-solid strong coupled oil cooling system are developed for the EV used electric machines. *The third part is the control and dynamic modeling for the electric machine system in EVs*, in which the control strategy, converter characteristics and the spatial harmonic electric machine model have been applied.
 
@@ -65,6 +65,7 @@
   [*Wentao Zhang*, Zhongze Wu, Lai Jin, Ying Fan, Wei Hua, Zhiyuan Xu and Ming Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," *IEEE Trans. Ind Appl.*. (accepted).],
   [*Wentao Zhang*; Ying Fan.; Ziqiang Zhu; Zhongze Wu; Wei Hua; Ming Cheng. "Analysis of DC Winding Induced Voltage in Wound-Rotor Synchronous Machines by Using the Air-Gap Field Modulation Principle." *World Electr. Veh. J.* 2022, 13, 215.],
   [*Wentao Zhang*, Zhongze Wu and Wei Hua, "Space-Resolved Lumped Parameter Thermal Model for Oil-Cooling Flat Wire Winding PM Machines," *IEEE Trans. Ind Appl.* (under review)],
+  [*Wentao Zhang*, Zhongze Wu, Ziyu Cang, Wei Hua, Ying Fan, and Ming Cheng, "Influence of End-Effect in Switched Flux Machines," *IEEE Trans. Ind Appl.* (under review)],
   [Zhongze Wu, *Wentao Zhang*, and Wei Hua, "Performance Evaluation of Flat Wire Windings for Permanent Magnet Machines in Electric Vehicles," *IEEE Trans. Ind. Electron.* (under review)],
   [Zhongze Wu, *Wentao Zhang*, Ying Fan, Wei Hua and Ming Cheng, "A Transient-State Lumped Parameter Thermal Model for Brushless Wound Field Switched Flux Machines," *IEEE Trans. Transport. Electrific.*, vol. 10, no. 1, pp. 224-238, March 2024.],
   [Zhongze Wu, Ziqiang Zhu, Chao Wang, Wei Hua, Kai Wang and *Wentao Zhang*, "Influence of rotor iron bridge position on DC-winding-induced voltage in wound field switched flux machine having partitioned stators," *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 20-28, Sept. 2021.],
@@ -98,7 +99,7 @@
 )[
   #set enum(numbering: "[C1]")
   #enum(
-    [*Wentao Zhang*, Zhongze Wu, Wei Hua, Ying Fan, Zhiyuan Xu and Ming Cheng, "Design Trandeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," in Proc. IEEE Energy Convers. Congr. Expo., Nashville, TN, USA, 2023, pp. 5060-5066.],
+    [*Wentao Zhang*, Zhongze Wu, Wei Hua, Ying Fan, Zhiyuan Xu and Ming Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," in Proc. IEEE Energy Convers. Congr. Expo., Nashville, TN, USA, 2023, pp. 5060-5066.],
     [*Wentao Zhang*, Zhongze Wu, Lai Jin, Ying Fan, Wei Hua and Ming Cheng, "Analysis and Multi-Objective Optimization of the Hybrid Excitation Switched Flux Machine," in Proc. Int. Elect. Energy Conf. , Hefei, China, 2023, pp. 3371-3376. (*Best Paper Award*)],
     [*Wentao Zhang*, Zhongze Wu, Wei Hua, Ying Fan and Ming Cheng, "Influence of the End-Effect in Wound Field Switched Flux Machine," in Proc. Int. Conf. Elect. Mach. Syst., Zhuhai, China, 2023, pp. 1223-1227.],
     [*Wentao Zhang*, Zhongze Wu, Ying Fan, Wei Hua and Ming Cheng, "Analysis and Improvement of DC Winding Current Dynamics in Wound Field Switched Flux Machine," in Proc. Int. Conf. Energy Technol. Future Grids, Wollongong, Australia, 2023, pp. 1-6.],
@@ -107,7 +108,7 @@
     [Lai Jin, Wei Hua, Udochukwu B. Akuru, Zhongze Wu, *Wentao Zhang* and Ming Cheng, "Comparative Study on DC Winding Induced Voltage Pulsation of Wound Field Flux Modulation Machines Having Different Iron Core Structures," in Proc. Int. Conf. Elect. Mach. Syst., Zhuhai, China, 2023, pp. 442-447.],
     [MMartin Philip Koroma, Wei Hua, Zhongze Wu, Lai Jin and *Wentao Zhang*, "Influence of Magnet Layer Numbers on Electromagnetic Performance of Interior Permanent Magnet Machines," in Proc. Int. Conf. Elect. Mach. Syst., Zhuhai, China, 2023, pp. 696-700.],
     [Xueyi Yan, Zhongze Wu, Wei Hua, *Wentao Zhang* and Ming Cheng, "A Mathematical Model for Wound Field Switched Flux Machine Considering Inductance Harmonics of Field and Armature Windings," in Proc. IEEE Int. Elect. Mach. Drives Conf., San Francisco, CA, USA, 2023, pp. 1-6.],
-    [Zhongze Wu, Lai Jin, *Wentao Zhang*, Xueyi Yan, Haorui Ge, Hao Hua, "A Lumpted Parameter Thermal Model for Variable Flux Reluctance Machine Considering Relative Position of DC and AC Windings," in Proc. Int. Conf. Elect. Mach., Torino, Italy, 2024, pp. 1-7.],
+    [Zhongze Wu, Lai Jin, *Wentao Zhang*, Xueyi Yan, Haorui Ge, Hao Hua, "A Lumped Parameter Thermal Model for Variable Flux Reluctance Machine Considering Relative Position of DC and AC Windings," in Proc. Int. Conf. Elect. Mach., Torino, Italy, 2024, pp. 1-7.],
     
 
   )
