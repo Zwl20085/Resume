@@ -45,7 +45,7 @@
   - Dissertation Title: "Comparative Study of Control Systems for PM Machine in Electric Vehicles"
 ]
 == Research Experience
-#h(1em)*My research focuses on the multi-physics design, analysis and control of the high power/torque density electric machine system applied in electric vehicles (EVs)*, including the flat wire PM machines and wound field excited machines. Eighteen IEEE Transactions papers have been published and three more are under review. In general, my research can be divided into three parts.
+#h(1em)*My research focuses on the multi-physics design, analysis and control of the high power/torque density electric machine system applied in electric vehicles (EVs)*, including the flat wire PM machines and wound field excited machines. I have wrote 21 journal papers, including fourteen published IEEE Transactions papers and three more are under review. In general, my research can be divided into three parts.
 
 #h(1em)*The first part is the design methods for the high-performance electric machines in EVs*, including the novel n-layer flat wire winding design and performance evaluation, DC winding induced voltage analysis and suppression for the wound excited electric machines and mechanism driven multi-objective optimization methods. *The second part is the advanced cooling system design and analysis for the electric machines in EVs*, both high resolution lumped parameter thermal model and the fluid-solid strong coupled oil cooling system are developed for the EV used electric machines. *The third part is the control and dynamic modeling for the electric machine system in EVs*, in which the control strategy, converter characteristics and the spatial harmonic electric machine model have been applied.
 
