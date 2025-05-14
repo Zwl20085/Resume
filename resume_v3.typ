@@ -32,7 +32,7 @@
   bl: "Master in Electrical Engineering",
   br: "Najing, Jiangsu, China",
 )[
-  - Dissertation Title: "Analysis and Design of High-Performance Woudn-Exicited Magnetic Field Modulation-based Brushless Machines"
+  - Dissertation Title: "Analysis and Design of High-Performance Wound-Excited Magnetic Field Modulation-based Brushless Machines"
 
 ]
 
