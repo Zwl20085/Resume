@@ -7,11 +7,20 @@
 
 
 
-- E-mail: zhangwentaoseu@\u{200B}outlook.com · Tel: (+86) 158-5060-7771
-- Date of Birth: Nov. 1995 · Address: Nanjing, China 
+- E-mail: wtzhangee1995@\u{200B}outlook.com · Tel: (+86) 158-5060-7771
+- Date of Birth: Nov. 1995 · Address: Nottingham, United Kingdom 
 
 
+== Work Experience
+#cventry(
+  tl: "University of Nottingham",
+  tr: "2025/09 - Now",
+  bl: "Research Assistant",
+  br: "Nottingham, United Kingdom",
+)[
+  
 
+]
 == Education
 
 #cventry(
@@ -62,9 +71,7 @@
   [*Wentao Zhang*, Zhongze Wu, Lai Jin, Ying Fan, Wei Hua and Ming Cheng, "Analysis and Multi-Objective Optimization of the Hybrid Excitation Switched Flux Machine," *IEEE Trans. Ind Appl.*, vol. 61, no. 2, pp. 2996-3006, March-April 2025.],
   [*Wentao Zhang*, Zhongze Wu, Lai Jin, Ying Fan, Wei Hua, Zhiyuan Xu and Ming Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," *IEEE Trans. Ind Appl.*. (accepted).],
   [*Wentao Zhang*; Ying Fan.; Ziqiang Zhu; Zhongze Wu; Wei Hua; Ming Cheng. "Analysis of DC Winding Induced Voltage in Wound-Rotor Synchronous Machines by Using the Air-Gap Field Modulation Principle." *World Electr. Veh. J.* 2022, 13, 215.],
-  [*Wentao Zhang*, Zhongze Wu and Wei Hua, "Space-Resolved Lumped Parameter Thermal Model for Oil-Cooling Flat Wire Winding PM Machines," *IEEE Trans. Ind Appl.* (under review)],
-  [*Wentao Zhang*, Zhongze Wu, Ziyu Cang, Wei Hua, Ying Fan, and Ming Cheng, "Influence of End-Effect in Switched Flux Machines," *IEEE Trans. Ind Appl.* (under review)],
-  [Zhongze Wu, *Wentao Zhang*, and Wei Hua, "Performance Evaluation of Flat Wire Windings for Permanent Magnet Machines in Electric Vehicles," *IEEE Trans. Ind. Electron.* (under review)],
+  [*Wentao Zhang*, Zhongze Wu, Ziyu Cang, Wei Hua, Ying Fan, and Ming Cheng, "Influence of End-Effect in Switched Flux Machines," *IEEE Trans. Ind Appl.* ],
   [Zhongze Wu, *Wentao Zhang*, Ying Fan, Wei Hua and Ming Cheng, "A Transient-State Lumped Parameter Thermal Model for Brushless Wound Field Switched Flux Machines," *IEEE Trans. Transport. Electrific.*, vol. 10, no. 1, pp. 224-238, March 2024.],
   [Zhongze Wu, Ziqiang Zhu, Chao Wang, Wei Hua, Kai Wang and *Wentao Zhang*, "Influence of rotor iron bridge position on DC-winding-induced voltage in wound field switched flux machine having partitioned stators," *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 20-28, Sept. 2021.],
   [Zhongze Wu, Ziqiang Zhu, Shun Cai, Wei Hua and *Wentao Zhang*, "Enhancement of torque density in wound field switched flux machines with partitioned stators using assisted ferrites," *Chinese Journal of Electrical Engineering*, vol. 7, no. 3, pp. 42-51, Sept. 2021.],
@@ -78,11 +85,6 @@
 
 
 )
-
-
-
-
-
 
 
 
