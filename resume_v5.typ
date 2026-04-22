@@ -124,15 +124,15 @@
   tl: "Patent",
   tr: " ",
 )[
-- *Wentao Zhang*, Zhongze Wu, Lai Jin, and Wei Hua, "Inductive Ripple Voltage Suppression Method Based on Low-Pass Filter Circuit," CN118508832A, 2024.
-- *Wentao Zhang*, Zhongze Wu, Lai Jin, and Wei Hua, "Disk Brushless Electric Excitation Magnetic Field Modulation Motor With Double-Row Stator Structure," CN118100572A, 2024.
-- *Wentao Zhang*, Zhongze Wu, Huilin Huang, and Wei Hua, "Method for Constructing a High-Precision Motor Performance Database Based on a Dual-Model Strategy," CN117972924A, 2024.
-- *Wentao Zhang*, Zhongze Wu, Wei Hua, and Zhixiang Zou, "Method for Establishing General Lumped Parameter Thermal Network Model of Motor," CN117094088A, 2023.
-- *Wentao Zhang*, Zhongze Wu, Lai Jin, and Wei Hua, "Method for Analyzing Harmonic Orders of Induced Ripple Voltage of Excitation Winding," CN115642847A, 2023.
-- *Wentao Zhang*, Zhongze Wu, Junxiang Liao, Ying Fan, Wei Hua, and Ming Cheng, "Excitation Winding Induced Pulse Voltage Suppression Method Based on Harmonic Current Injection," CN115208245A, 2022.
-- *Wentao Zhang*, Zhongze Wu, Ying Fan, Wei Hua, and Ming Cheng, "High-Precision Field Path Coupling Design Method for Brushless Electric Excitation Magnetic Field Modulation Motor," CN114781227A, 2022.
-- *Wentao Zhang*, Zhongze Wu, Wei Hua, and Ziqiang Zhu, "Method for Weakening the Induced Pulsating Voltage of a Brushless Electric Excitation Magnetic Field Modulated Motor," CN114189185A, 2022.
-- *Wentao Zhang*, Wei Hua, Zhongze Wu, and Shichuan Ding, "Method for Reducing Torque Ripple and Induced Voltage of Electric Excitation Flux Switching Motor," CN111769697A, 2020.
+- Zhongze Wu,*Wentao Zhang*, Lai Jin, and Wei Hua, "Inductive Ripple Voltage Suppression Method Based on Low-Pass Filter Circuit," CN118508832A, 2024.
+- Zhongze Wu, *Wentao Zhang*, Lai Jin, and Wei Hua, "Disk Brushless Electric Excitation Magnetic Field Modulation Motor With Double-Row Stator Structure," CN118100572A, 2024.
+- Zhongze Wu, *Wentao Zhang*, Huilin Huang, and Wei Hua, "Method for Constructing a High-Precision Motor Performance Database Based on a Dual-Model Strategy," CN117972924A, 2024.
+- Zhongze Wu, *Wentao Zhang*, Wei Hua, and Zhixiang Zou, "Method for Establishing General Lumped Parameter Thermal Network Model of Motor," CN117094088A, 2023.
+- Zhongze Wu, *Wentao Zhang*, Lai Jin, and Wei Hua, "Method for Analyzing Harmonic Orders of Induced Ripple Voltage of Excitation Winding," CN115642847A, 2023.
+- Zhongze Wu, *Wentao Zhang*, Junxiang Liao, Ying Fan, Wei Hua, and Ming Cheng, "Excitation Winding Induced Pulse Voltage Suppression Method Based on Harmonic Current Injection," CN115208245A, 2022.
+- Zhongze Wu, *Wentao Zhang*, Ying Fan, Wei Hua, and Ming Cheng, "High-Precision Field Path Coupling Design Method for Brushless Electric Excitation Magnetic Field Modulation Motor," CN114781227A, 2022.
+- Zhongze Wu, *Wentao Zhang*, Wei Hua, and Ziqiang Zhu, "Method for Weakening the Induced Pulsating Voltage of a Brushless Electric Excitation Magnetic Field Modulated Motor," CN114189185A, 2022.
+- Wei Hua, *Wentao Zhang*, Zhongze Wu, and Shichuan Ding, "Method for Reducing Torque Ripple and Induced Voltage of Electric Excitation Flux Switching Motor," CN111769697A, 2020.
 
 ]
 
