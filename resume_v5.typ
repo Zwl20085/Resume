@@ -7,8 +7,8 @@
 
 
 
-- E-mail: wentao.zhang@\u{200B}nottingham.ac.uk · Tel: (+86) 158-5060-7771
-- Date of Birth: Nov. 1995 · Address: Nottingham, United Kingdom
+- E-mail: wentao.zhang@\u{200B}nottingham.ac.uk · Tel: (+44) 7402 114 543
+- Date of Birth: Nov. 1995 · Address: Suzhou, China
 
 
 == Work Experience
@@ -29,7 +29,7 @@
   bl: "Ph. D. in Electrical Engineering",
   br: "Nanjing, Jiangsu, China",
 )[
-  - Dissertation Title: "Multi-physics Analysis and Design of Flat Wire Winding PM machines in Electric Vehicles"
+  - Dissertation Title: "Multi-physics Analysis and Design of Hairpin Winding PM Traction Machines in Electric Vehicles"
   - 2025 1#super[st] Prize, IEEE TEC Electric Vehicle Design Competition
   - 2025 2#super[nd] Prize Paper Award, IEEE Transactions on Transportation Electrification
 
