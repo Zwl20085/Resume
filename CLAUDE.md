@@ -9,8 +9,29 @@ Email: wentao.zhang@nottingham.ac.uk
 
 ## CV File
 
-- Main file: `resume_v4.typ` (Typst format)
+- Main file: `resume_v4.typ` (Typst format). Job-specific variants: `resume_v5.typ`, `resume_v5_queensland.typ`, etc.
 - Dependencies: `chicv.typ`, `fontawesome.typ`
+- Local fonts: `fonts/AvenirNextLTPro-{Regular,Bold,Italic}.otf`, `fonts/FontAwesome6.otf`
+
+## Compile Command (CRITICAL — fonts will be wrong without `--font-path`)
+
+Always pass `--font-path fonts` so Typst can find the bundled Avenir Next LT Pro and FontAwesome 6 files. Without it, Typst falls back to a generic sans-serif and the icons render as tofu.
+
+```powershell
+typst compile --font-path fonts resume_v5_queensland.typ
+```
+
+If the output PDF is locked (open in a viewer), write to a temp name:
+```powershell
+typst compile --font-path fonts resume_v5_queensland.typ resume_v5_queensland_new.pdf
+```
+
+### Fonts used by `chicv.typ`
+- **H1 (name)** and **H2 (section headings)**: Times New Roman (system font on Windows/macOS), regular weight. Fallbacks: Times → Liberation Serif → Avenir Next LT Pro → Manrope.
+- **Body text**: Typst default (New Computer Modern).
+- **Icons**: FontAwesome 6 (loaded from `fonts/`).
+
+Harmless warnings on compile: `unknown font family: times / liberation serif / manrope` — these are fallbacks for non-Windows systems and are skipped when Times New Roman is available. As long as there is **no** warning for `times new roman` or `avenir next lt pro`, the output is correct.
 
 ---
 

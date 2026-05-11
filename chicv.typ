@@ -39,23 +39,29 @@
   show heading.where(
     level: 1
   ): set text(
-    size: 22pt,
+    size: 26pt,
     font: (
-      "Avenir Next LT Pro", // original chi-cv font
-      "Manrope", // a font available in the typst environment and looks similar to Avenir
+      "Times New Roman",
+      "Times",
+      "Liberation Serif",
+      "Avenir Next LT Pro",
+      "Manrope",
     ),
-    weight: "light",
+    weight: "regular",
   )
 
   show heading.where(
     level: 2
   ): it => text(
-    size: 12pt,
+    size: 13pt,
     font: (
+      "Times New Roman",
+      "Times",
+      "Liberation Serif",
       "Avenir Next LT Pro",
       "Manrope",
     ),
-    weight: "light",
+    weight: "regular",
     block(
       chiline() + it,
     )
