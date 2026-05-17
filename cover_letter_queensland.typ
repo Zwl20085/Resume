@@ -1,13 +1,13 @@
 #set page(
   paper: "a4",
-  margin: (x: 2.2cm, y: 2.2cm),
+  margin: (x: 2.0cm, y: 1.8cm),
 )
 #set text(
   font: ("Times New Roman", "Times", "Liberation Serif"),
   size: 11pt,
   lang: "en",
 )
-#set par(justify: true, leading: 0.65em, first-line-indent: 0pt, spacing: 1.0em)
+#set par(justify: true, leading: 0.58em, first-line-indent: 0pt, spacing: 1.0em)
 
 // Sender block (right-aligned header)
 #align(right)[
@@ -17,34 +17,31 @@
   wentao.zhang\@nottingham.ac.uk · (+44) 7402 114 543
 ]
 
-#v(0.6em)
-12 May 2026
-#v(0.6em)
+#v(0.4em)
+14 May 2026
+#v(0.4em)
 
-Professor Markus Barth \
+Selection Committee \
 School of Electrical Engineering and Computer Science \
-Faculty of Engineering, Architecture and Information Technology \
-The University of Queensland \
-St Lucia QLD 4072, Australia
+The University of Queensland, St Lucia QLD 4072, Australia
 
-#v(0.6em)
-Dear Professor Barth,
+#v(0.4em)
+Dear Selection Committee,
 
-#v(0.2em)
-*Application for Lecturer in Electrical Engineering / Biomedical Engineering — R-63679*
+#v(0.1em)
+*Application for Lecturer in Electrical Engineering / Biomedical Engineering, R-63679*
 
-I am writing to apply for the Lecturer position in Electrical Engineering / Biomedical Engineering (R-63679) advertised by the School of Electrical Engineering and Computer Science. I am currently a Research Assistant at the Power Electronics and Machines Centre (PEMC), University of Nottingham, having completed my PhD in Electrical Engineering at Southeast University, Nanjing, in September 2025. The balance the role offers between teaching across the electrical-engineering curriculum and a research home in a School with strong Imaging, Sensing and Biomedical Engineering activity is an excellent fit for the methodology-led programme I want to build at UQ.
+I am writing to apply for the Lecturer position in Electrical Engineering / Biomedical Engineering (*R-63679*) at the *University of Queensland*. I am currently a Research Assistant at the *Power Electronics and Machines Centre (PEMC), University of Nottingham*, having completed my *PhD in Electrical Engineering at Southeast University, Nanjing, in September 2025*. I would very much welcome the opportunity to join the School, contribute to its teaching, and build research collaborations within its *Imaging, Sensing and Biomedical Engineering* community.
 
-My research develops multiphysics modelling and AI-driven surrogate techniques for the analysis, design and optimisation of magnetic and electromagnetic devices. The work has three methodological strands: (i) strongly coupled electromagnetic--thermal--fluid--mechanical finite-element analysis; (ii) high-resolution lumped-parameter thermal networks combined with oil-cooling fluid--solid solvers; and (iii) operator-learning neural surrogates for the magnetic field that achieve design-loop accuracy at orders-of-magnitude lower cost than conventional numerical analysis. To date I have authored 22 journal papers (seventeen published IEEE Transactions, one in early access), eighteen peer-reviewed conference papers, and hold nine patents. The work has been recognised by the 2025 1#super[st] Prize in the IEEE TEC Electric Vehicle Design Competition, the 2025 2#super[nd] Prize Paper Award of _IEEE Transactions on Transportation Electrification_, the 1#super[st] Prize in the IEEE IAS CMD Thesis Contest, and three best-paper awards at IEEE-affiliated conferences. My principal application domain has been high-power-density electric drive systems for electrified transport; the underlying machinery --- magnetic-field forward modelling, multiphysics coupling and learned surrogates --- is application-agnostic and well placed to support cross-disciplinary collaboration within the School.
+My research develops *multiphysics modelling and AI-driven surrogate techniques* for the analysis, design and optimisation of electromagnetic devices, combining strongly coupled electromagnetic-thermal-fluid-mechanical finite-element analysis, high-resolution lumped-parameter thermal networks, and operator-learning neural surrogates. I have authored *22 journal papers (17 in IEEE Transactions)*, *17 peer-reviewed conference papers*, and hold *9 patents*, recognised by the *2025 IEEE TEC EV Design Competition (1#super[st] Prize)*, the *2025 IEEE Trans. Transportation Electrification Prize Paper Award (2#super[nd])*, and the *IEEE IAS CMD Thesis Contest (1#super[st] Prize)*. While my application domain has been high power-density electric drives, the underlying methodology is *application-agnostic* and well placed to support cross-disciplinary collaboration with the School's imaging and sensing groups, in particular on electromagnetic device design for *MRI gradient and shimming systems* and on *learned surrogates for inverse problems in electromagnetic imaging*.
 
-I am keen and prepared to teach into several of the curriculum areas listed in the position description, particularly *introductory programming for engineering students*, *embedded and digital systems* (introductory through advanced undergraduate), and *electrical-engineering team and individual capstone projects*. My day-to-day toolchain --- Python, MATLAB/Simulink, ANSYS, and embedded firmware on TI C2000 and STM32 --- supports both contemporary curriculum design and the project-based components students value most. During my PhD I served as a teaching assistant and laboratory demonstrator at Southeast University and informally co-mentored junior PhD and MSc students in Prof.~Wei Hua's group, evidenced in the co-authorship pattern of my publication record. I would welcome UQ's standard induction support for new Level B Lecturers as I take on full course-coordination responsibility.
+A distinguishing feature of my profile is *full industrial development experience*. In partnership with *Inovance*, a leading EV traction-machine supplier, I have analysed, designed, manufactured and AVL-dynamometer-tested two advanced oil-cooled PM traction machines: an *18 000 rpm 113 kW A0-class machine* (138 Nm, *7.78 kW/kg*, *95.3% peak efficiency*) and a *20 000 rpm 270 kW A-class machine* (380 Nm, *7.87 kW/kg*, *97.4% peak efficiency*). I have also developed an *in-house finite-element code package* covering electromagnetic, structural-modal and mechanical-stress analysis of electrical machines, now being applied to magnet-free synchronous machine work at PEMC. This combination of academic and industrial credibility positions me well to pursue *ARC Discovery, DECRA and Linkage funding* and direct industrial partnerships once based at UQ.
 
-Beyond research and teaching, I am Co-Organiser and Co-Chair of a Special Session at the 2026 International Conference on Electrical Machines (ICEM 2026, Covilhã, Portugal) on _Next-Generation Electrified Transport: Advances in Electric Drive Systems_, jointly with Dr Lingyun Shao (NUAA) and collaborators across China, the UK and the EU. I would welcome the opportunity to develop similar collaborative initiatives with the School and across the wider Faculty.
+I am well placed to contribute across the *software, embedded-systems and project-based components of the EE curriculum*, from foundational programming through to senior capstone supervision. My day-to-day toolchain spans *Python, MATLAB/Simulink, C/C++ for TI C2000, STM32 and FPGA, and machine-learning frameworks*, complemented by hands-on power-electronics prototyping (a three-phase converter and its control built for flux-modulation machine testing) and an in-house Rust MCU data-acquisition tool. At postgraduate level I served as *teaching assistant for the SEU course Integrated Practice of Electrical Machine Systems*, preparing tutorial slides, leading Q&A, reviewing project outline proposals, and contributing mark recommendations. I am also *Co-Organiser and Co-Chair of an ICEM 2026 (Portugal) Special Session* on _Next-Generation Electrified Transport_, with Dr Lingyun Shao (NUAA).
 
-I have attached my CV and detailed responses to the "About You" selection criteria. Thank you for your consideration; I would be very pleased to discuss how I could contribute to the School's teaching programme and research strategy.
+Attached are my CV and detailed responses to the "About You" selection criteria. I would be very pleased to discuss how I could contribute to the School's teaching programme and research strategy.
 
-#v(1.0em)
 Yours sincerely,
 
-#v(2.5em)
+#v(0.8em)
 *Wentao Zhang*
