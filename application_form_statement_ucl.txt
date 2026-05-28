@@ -1,0 +1,26 @@
+I am applying for the LECTURER (GRADE 8) post in Control Engineering for Electrified Propulsion Systems. My research sits directly at the intersection of electric machines, drives, and control-oriented system modelling, closely aligned with the Advanced Propulsion Laboratory's focus on multi-physics, system-level electrified propulsion. I completed my PhD in Electrical Engineering at Southeast University in September 2025 and am now a Research Assistant at the Power Electronics and Machines Centre (PEMC), University of Nottingham, on the AIMD integrated motor-drive programme across Nottingham, Bristol and Newcastle.
+
+QUALIFICATIONS AND TRACK RECORD
+I hold a PhD in Electrical Engineering, with an MSc and BEng in the same field. My record in control engineering applied to electrified systems comprises 22 journal papers (17 in IEEE Transactions), 18 conference papers and 9 patents, spanning:
+- drive-system dynamics: spatial-harmonic inductance modelling, DC winding current dynamics under PWM excitation, and converter-machine interaction;
+- high-fidelity multi-physics models for model-based control; and
+- AI-driven surrogate modelling and multi-objective optimisation of electrified drives.
+
+RESEARCH INDEPENDENCE AND INNOVATION
+I independently developed an in-house Python finite-element code package and used it to build an implicit-physics deep-learning surrogate that maps machine design parameters to the full magnetic field (R2 = 0.9996 for torque, over 94% inference speed-up versus finite-element analysis). Through a multi-year collaboration with Inovance, a world-leading EV traction-machine supplier, I delivered two oil-cooled PM traction machines (18,000 rpm / 113 kW and 20,000 rpm / 270 kW) from design to AVL dynamometer validation. This combined academic and industrial base positions me to secure funding from EPSRC, Innovate UK, ATI and industrial partners.
+
+TEACHING AND SUPERVISION
+I served as teaching assistant on a postgraduate electrical-machine-systems course, preparing tutorial material and reviewing project work, and have mentored junior PhD and MSc colleagues in multi-physics modelling and FEA. I would contribute to modules in control engineering, electric machines and drives, power electronics and propulsion systems, and would undertake UCL Arena and work toward FHEA as an early priority.
+
+COMMUNICATION AND RECOGNITION
+My work has been recognised by:
+- the 2025 IEEE TEC Electric Vehicle Design Competition (1st Prize);
+- the 2025 IEEE Trans. Transportation Electrification Prize Paper Award;
+- the IEEE IAS CMD Thesis Contest (1st Prize); and
+- the CIEEC Best Paper Award.
+I co-organise and co-chair an ICEM 2026 Special Session on next-generation electrified transport and review for three IEEE Transactions journals.
+
+INTERDISCIPLINARY, INDUSTRY AND EDI
+My research is inherently interdisciplinary, coupling electromagnetic, thermal, mechanical and fluid physics within one design-and-control framework, and the Inovance programme demonstrates industrial and translational delivery. My co-author network spans China, the United Kingdom and South Africa, and I am committed to UCL's Ways of Working, the Department's Athena SWAN commitments, and inclusive pedagogy, assessing contributions relative to opportunity in supervision and mentoring.
+
+I would be glad to contribute to the APL's interdisciplinary, industry-engaged environment and to discuss my application further at interview.
