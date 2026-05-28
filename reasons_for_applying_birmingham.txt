@@ -1,0 +1,58 @@
+Application for Assistant Professor (Research and Education) in Mechanical Engineering, Advanced Propulsion and Vehicle Systems (post 58193, Grade 8)
+Applicant, Wentao Zhang
+
+---
+
+1. REASONS FOR APPLYING
+
+I am writing to apply for the Assistant Professor (Research and Education) post in Mechanical Engineering at the University of Birmingham because the post sits squarely on the research areas I have spent the last seven years developing, and because the Department of Mechanical Engineering within the School of Engineering offers the right combination of research infrastructure, industrial partners and a long-term environment in which to build an independent research line.
+
+I currently hold a Research Assistant post at the Power Electronics and Machines Centre (PEMC), University of Nottingham, having completed my PhD in Electrical Engineering at Southeast University, Nanjing, in September 2025 with the dissertation "Multi-physics Analysis and Design of Hairpin Winding PM Traction Machines in Electric Vehicles". My doctoral and postdoctoral work has built directly on three of the four research areas named in the post, including integrated electrified and hybrid powertrains (with multi-physics design and thermal management of high power-density traction machines), powertrain decarbonisation through electrification, and AI-driven surrogate modelling and digital twins for electric propulsion system design. The fourth area, sustainable and low-carbon fuels including hydrogen carrier fuels, is adjacent to my methodological foundation in multi-physics modelling of energy conversion systems, and I would be glad to extend my work in that direction through interdisciplinary collaboration within the Department and the wider School of Engineering's net-zero transport community.
+
+---
+
+2. RESEARCH SKILLS AND EXPERIENCE
+
+My research focuses on the multi-physics design, thermal management, and AI-assisted modelling of high power-density electrified powertrains for net-zero road transport. The work combines strongly coupled electromagnetic, thermal, fluid and mechanical finite-element analysis with deep-learning surrogate models and full-scale dynamometer validation of industrial prototypes. I have authored 22 journal papers (17 in IEEE Transactions across Industrial Electronics, Transportation Electrification, Industry Applications, and Energy Conversion), 18 peer-reviewed conference papers at IEEE IEMDC, IEEE ECCE, ICEM and ICEMS, and 9 patents. The work covers four interconnected areas that map onto the named research areas in the post.
+
+(a) Multi-physics design and thermal management of EV traction machines. My IEEE Trans. Transportation Electrification paper "High-Fidelity Lumped Parameter Thermal Model for Oil-Cooling Hairpin Winding PM Machines in EVs" develops a high-resolution lumped-parameter thermal network coupled to a fluid-solid oil-cooling model, validated against AVL dynamometer measurements across the full operating map, and addresses efficiency, loss distribution and thermal-degradation limits relevant to the post's interest in thermal (HVAC) systems, efficiency, degradation and lifecycle performance.
+
+(b) Manufacturing-ready powertrain architectures. My IEEE Trans. Transportation Electrification paper "Design of n-Layer Flat Wire Winding in Permanent Magnet Machine for Electric Vehicles" develops a generalised methodology for high power-density hairpin and flat-wire windings, with conductor-layout optimisation and tolerance-aware mechanical design.
+
+(c) AI-driven surrogate modelling and digital twins for electric propulsion system design. My ICEM 2026 paper "A Deep Learning Based Magnetic Field Surrogate Modeling Method for Interior Permanent Magnet Machine in EVs" introduces an implicit physics-knowledge embedding approach in which a deep neural network maps machine design parameters to the magnetic vector potential field. The model reaches R-squared = 0.9996 for average torque and 0.9730 for iron loss on an unseen validation set, while reducing inference time by more than 94 per cent against direct finite-element analysis. The surrogate sits on an in-house Python finite-element code package I have developed (electromagnetic, structural-modal and mechanical-stress), and provides the substrate for physics-grounded digital twins of electric propulsion components in support of intelligent connected and automated vehicle systems.
+
+(d) Machine control and drive-train dynamic modelling. Across several IEEE Trans. Industry Applications and IEEE Trans. Industrial Electronics papers I have developed spatial-harmonic inductance modelling, DC winding current dynamics under PWM excitation, and converter-machine interaction analysis for wound-field and PM machine systems, supporting system-level powertrain control and energy management.
+
+My toolchain includes the in-house Python finite-element code package, PyTorch, MATLAB/Simulink, ANSYS Maxwell and Mechanical, and C/C++ for TI C2000 and STM32. I have also built and commissioned a three-phase full-bridge converter and its control firmware for flux-modulation machine testing.
+
+The work has received international recognition including 1st Prize in the 2025 IEEE TEC EV Design Competition, the 2025 IEEE Trans. Transportation Electrification Prize Paper Award, 1st Prize in the 2023 IEEE IAS CMD Thesis Contest (non-PhD), CIEEC Best Paper Award (2023), and the Jiangsu Outstanding Master Thesis Award (2022).
+
+---
+
+3. TEACHING AND SUPERVISION
+
+During my PhD I served as teaching assistant for the SEU postgraduate course "Integrated Practice of Electrical Machine Systems", preparing tutorial slides, running Q&A and consultation hours, reviewing student project proposals with structured feedback, and providing mark recommendations.
+
+I would be glad to contribute to the Department's portfolio at undergraduate, MSc and CPD level in areas such as electric machines and drives, electrified powertrain design, multi-physics and thermal-management modelling, finite-element principles, and AI for engineering, drawing on my doctoral and Inovance work and on the in-house Python finite-element code package as supporting material.
+
+As a senior PhD student at SEU I supported junior PhD and MSc colleagues on machine modelling, finite-element analysis, thermal-network construction and PWM-loss coupling, reflected in the co-authorship of my publication record. I would carry the same mentoring style into formal supervision at Birmingham, with a preference for early ownership, structured weekly technical discussion, and steady building of independent judgement.
+
+---
+
+4. INDUSTRIAL ENGAGEMENT AND RESEARCH FUNDING
+
+The most substantive part of my industrial experience is a multi-year collaboration with Inovance, a world-leading EV traction-machine supplier, on two oil-cooled PM traction machines, an 18,000 rpm 113 kW A0-class machine (138 Nm, 7.78 kW/kg, 95.3 per cent peak efficiency) and a 20,000 rpm 270 kW A-class machine (380 Nm, 7.87 kW/kg, 97.4 per cent peak efficiency). I led the technical execution of multi-physics design, manufacturing-drawing release and tolerance specification, and AVL dynamometer characterisation across the full efficiency map, working day-to-day with Inovance engineers, mechanical-design staff and test-bench operators. The programme produced peer-reviewed journal papers on n-layer flat-wire winding design, oil-cooling thermal modelling and PWM-loss interaction, alongside the two delivered prototypes.
+
+My doctoral research was conducted within a multi-year Inovance-led industrial research programme funded under the National Key R&D Program of China (Grant No. 2022YFB2502701). My current PEMC role sits within the Sustainable Multi-Sector Electrification Using Advanced Integrated Motor Drive Technologies (AIMD) programme led by Nottingham with the Universities of Bristol and Newcastle, covering both next-generation magnet-free synchronous machines and integrated motor-drive power electronics.
+
+At Birmingham I would be glad to develop applications across the UK funding landscape directly relevant to the post, including EPSRC (transport decarbonisation, engineering for net zero), Innovate UK, the Advanced Propulsion Centre and the Faraday Institution (UK electrified powertrain roadmaps), and the Aerospace Technology Institute (more-electric and hybrid-electric propulsion), alongside Horizon Europe and direct industrial co-funding from EV and powertrain partners.
+
+---
+
+5. OTHER INTERESTS AND ACTIVITIES
+
+I serve as Co-Organiser and Co-Chair of an ICEM 2026 Special Session on "Next-Generation Electrified Transport" in Funchal, Madeira, Portugal, jointly with Dr Lingyun Shao (NUAA). I act as peer reviewer for IEEE Trans. Industry Applications, Energy Conversion, and Transportation Electrification, and I am active in the IEEE community through IEMDC, ECCE, ICEM and ICEMS. My recent self-directed professional development has focused on deep-learning operator-learning methods (DeepONet, Fourier neural operators, physics-informed neural networks), which underpins the ICEM 2026 surrogate paper.
+
+My collaborators include the University of Sheffield, the University of Bath, NUAA, Tshwane University of Technology, Southeast University and the University of Nottingham, and I have worked across institutional cultures in China and the United Kingdom.
+
+I would be glad to discuss my plans further at interview.
