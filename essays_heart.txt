@@ -1,0 +1,23 @@
+=====================================================================
+Q1. Describe the most difficult technically challenging project you solved.
+=====================================================================
+
+The most technically challenging project I have solved is the 20,000 rpm, 270 kW oil-cooled hairpin-winding PM traction machine I developed with Inovance, a world-leading EV traction-machine supplier, for an A-class vehicle. The target was 7.87 kW/kg with series-production manufacturability, and the difficulty was that at 20,000 rpm three physics fight each other.
+
+Electromagnetically, hairpin (flat-wire) windings suffer severe AC copper loss at high fundamental frequency. I developed an n-layer flat-wire winding design methodology (published in IEEE Trans. Transportation Electrification) that optimizes the conductor layout layer by layer to suppress AC loss while keeping the high slot fill that makes hairpin windings attractive in the first place.
+
+Mechanically, centrifugal stress at 20,000 rpm pushes the rotor bridges thicker while torque density pushes them thinner. I resolved this with field-oriented notching and stress-relieving grooves that protect the bridges without sacrificing air-gap flux.
+
+Thermally, the oil-cooled end windings could not be predicted by standard lumped-parameter models. I built a high-fidelity lumped-parameter thermal network coupled to a fluid-solid oil-cooling model, and included PWM-excitation loss effects, because inverter harmonics measurably raise loss and temperature beyond sinusoidal predictions.
+
+The design then had to survive manufacturing. I produced the engineering drawings and tolerance specifications, and worked with Inovance's engineers as the prototype went through stator winding, lamination stacking, and varnish impregnation. On the AVL dynamometer the machine measured 270 kW peak, 380 Nm, 7.87 kW/kg, and 97.4% peak efficiency, and the thermal model tracked thermocouple measurements across the full operating map. The methodology was published across several IEEE Transactions papers and carried directly into a second 18,000 rpm, 113 kW machine for an A0-class vehicle.
+
+=====================================================================
+Q2. Describe one of your proudest achievements.
+=====================================================================
+
+One of my proudest achievements is seeing my hairpin-winding machine research complete the full arc from equations to validated hardware to community recognition.
+
+During my PhD I set out to make high-speed hairpin-winding PM machines designable in a principled way. That produced an n-layer flat-wire winding design methodology and a high-fidelity oil-cooling lumped-parameter thermal model, both published in IEEE Trans. Transportation Electrification. In collaboration with Inovance, these methods became real machines: a 20,000 rpm, 270 kW prototype (380 Nm, 7.87 kW/kg, 97.4% peak efficiency) and an 18,000 rpm, 113 kW prototype, both characterized on an AVL dynamometer, with the thermal model matching thermocouple data across the operating map.
+
+In 2025 this work received the IEEE Transactions on Transportation Electrification Prize Paper Award (2nd Prize) and 1st Prize in the IEEE TEC Electric Vehicle Design Competition. What makes me proudest is not the awards themselves but what they certify: the design methods hold up on a production supplier's test bench, and the research community judged them useful. The same body of work has grown into 22 journal papers (17 in IEEE Transactions) and 9 patents, and the methodology now underpins my current work at the University of Nottingham's Power Electronics and Machines Centre on next-generation magnet-free machines and deep-learning design surrogates. I would like to bring that same arc, from method to certified hardware, to the ES-30's propulsion motors.
