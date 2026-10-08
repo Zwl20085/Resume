@@ -28,12 +28,12 @@ University context verified 8 Oct 2026: School of ECE emphasises future energy n
 | Criterion | Evidence | Where |
 |---|---|---|
 | PhD | PhD EE, SEU, Sep 2025; MDPI *Machines* Best PhD Thesis Award 2025 | CV |
-| Track record (relative to opportunity) | 23 J (19 IEEE Trans, 11 first-author), 18 C, 9 patents in 1 yr post-PhD; TTE Prize Paper; IEEE TEC EV Design 1st Prize | CV Profile, RS §Track record |
+| Track record (relative to opportunity) | 24 J (20 IEEE Trans, 11 first-author; [J24] accepted 7 Oct 2026), 18 C, 9 patents in 1 yr post-PhD; TTE Prize Paper; IEEE TEC EV Design 1st Prize | CV Profile, RS §Track record |
 | AI: Build | Field-level surrogate [C1] (R² 0.9996, >94% faster); in-house Python FE package; planned operator learning + UQ | RS Theme 1 |
 | AI: Leverage | Hybrid optimisation [J6] 67 h → 2.3 h; dual-model patent [P3]; digital twins [J10]/[J11]/[J12] | RS Theme 2 |
 | AI: Understand | OpenAI-supported LLM-agent project; benchmark of agent failure modes vs physics/measurement | RS Theme 3 |
 | Funding | **N-ZEEE Flexible Funding £2,700 (2026, panel-approved)**; OpenAI Researcher Access in-kind credits; participant on EPSRC AIMD and Inovance programmes; plan: DECRA → Linkage / CRC-P → Discovery | CV Research Funding, RS §Funding |
-| Network / translation | Inovance (two prototypes); PEMC/AIMD; SEU; ICEM 2026 special session co-organiser; ICEMS 2026 (N-ZEEE) | CV, RS |
+| Network / translation | Inovance (two prototypes); PEMC/AIMD; SEU; ICEM 2026 special session co-organiser; ICEMS 2026 paper presentation (N-ZEEE funded) | CV, RS |
 | Unit organisation and modern pedagogy | Worked design of a third-year machines & drives unit; TA experience; teaching materials | TS |
 | AI reshaping teaching | Surrogate exercise; declared AI use; AI-resilient assessment (oral defence, labs, unit-specific data) | TS |
 | Evaluating teaching | USS surveys, mid-semester check, outcome-level analysis, peer observation, Advance HE | TS |
@@ -41,7 +41,7 @@ University context verified 8 Oct 2026: School of ECE emphasises future energy n
 
 ## Honesty decisions
 
-- N-ZEEE award described exactly as the approval email states (£2,700, ICEMS 2026 attendance including tutorial day, approved by selection panel). N-ZEEE's funder is **not** named (the website does not state it; do not write "EPSRC").
+- N-ZEEE award described exactly as the approval email states (£2,700, ICEMS 2026 attendance including tutorial day, approved by selection panel; Wentao is presenting a paper there, paper not yet published). N-ZEEE's funder is **not** named (the website does not state it; do not write "EPSRC").
 - Funding record called "at an early stage"; no PI research grant claimed.
 - No open-source promise for the FE code / datasets / surrogates (see memory: no-open-source-claim).
 - MDPI *Machines* Best PhD Thesis Award included (see memory: mdpi-thesis-award).
@@ -49,9 +49,9 @@ University context verified 8 Oct 2026: School of ECE emphasises future energy n
 
 ## Open questions for Wentao (before submission)
 
-1. **ICEMS 2026:** are you presenting a paper there, or attending only? If presenting, add it as [C19] and say "present" in CV/RS.
+1. ~~ICEMS 2026~~ Resolved 8 Oct: presenting a paper (not yet published). CV/RS say "present a paper". Title and authors needed if it is to be listed as [C19] (Accepted).
 2. **ICEM 2026 [C1]:** the conference was in Sep 2026. Was it presented, and is it now in IEEE Xplore (drop "Accepted", add pages)?
-3. **Referees:** keep the three SEU referees (Wu, Cheng, Hua), or replace one with a Nottingham/PEMC line manager? Australian panels usually expect the current supervisor.
+3. **Referees (deferred by Wentao, 8 Oct):** keep the three SEU referees (Wu, Cheng, Hua), or replace one with a Nottingham/PEMC line manager? Australian panels usually expect the current supervisor.
 4. **Target School:** ECE (default) or AMME? The application form may ask.
-5. **Cover letter:** not requested in the advert. Draft one if the Workday form has a slot?
-6. **Any new publications** since 25 Aug 2026 (counts are still 23 / 18 / 9)?
+5. ~~Cover letter~~ Drafted 8 Oct: `cover_letter_usyd.typ`.
+6. ~~New publications~~ Resolved 8 Oct: [J24] Z. Wu, W. Zhang, W. Hua, "Design, Analysis and Performance Evaluation of Hairpin Winding Permanent Magnet Machines," IEEE TTE, accepted 7 Oct 2026 (no DOI yet). Counts now 24 J / 20 IEEE Trans / 11 first-author / 18 C / 9 P.

@@ -12,7 +12,7 @@
 
 == Profile
 - *Research focus:* physics-informed AI for the design and validation of electrical machines and drives, the energy converters behind electric transport, renewable generation and robotics. Learned models are built on my own finite element solver and checked against measurements from built prototypes.
-- *Record:* 23 journal papers (*19 in IEEE Transactions, 11 as first author*), 18 peer-reviewed conference papers, *9 granted patents*; 2025 IEEE Trans. Transportation Electrification Prize Paper Award; 2025 IEEE TEC Electric Vehicle Design Competition, 1#super[st] Prize; 2025 MDPI _Machines_ Best PhD Thesis Award.
+- *Record:* 24 journal papers (*20 in IEEE Transactions, 11 as first author*), 18 peer-reviewed conference papers, *9 granted patents*; 2025 IEEE Trans. Transportation Electrification Prize Paper Award; 2025 IEEE TEC Electric Vehicle Design Competition, 1#super[st] Prize; 2025 MDPI _Machines_ Best PhD Thesis Award.
 - *Industrial translation:* technical lead, with *Inovance*, for two high-speed EV traction machines (18,000 and 20,000 rpm) taken from specification through drawing and tolerance release and supplier manufacture to AVL dynamometer validation.
 - *Career stage (relative to opportunity):* PhD awarded September 2025; one year of postdoctoral employment at the time of application.
 
@@ -73,7 +73,7 @@
 ]
 
 == Research Funding
-- *N-ZEEE Flexible Funding award* (Net-Zero Enabling Electrical Engineering network, 2026), *£2,700*, approved by the network's selection panel on my proposal, to attend IEEE ICEMS 2026 (Singapore, 24 to 27 November 2026) including its tutorial day.
+- *N-ZEEE Flexible Funding award* (Net-Zero Enabling Electrical Engineering network, 2026), *£2,700*, approved by the network's selection panel on my proposal, to present a paper at IEEE ICEMS 2026 (Singapore, 24 to 27 November 2026) and attend its tutorial day.
 - *OpenAI Researcher Access Program* (2026): in-kind API credits for a six-month project I lead on LLM-agent-assisted design and training of physics-informed surrogate models.
 - *Participating researcher* on externally funded programmes: the EPSRC *AIMD* programme at Nottingham (2025 to present) and the *Inovance*-funded traction-machine development programme at Southeast University (2021 to 2025).
 
@@ -97,10 +97,10 @@
 - *Software.* Python, PyTorch, MATLAB/Simulink; ANSYS Maxwell 2D/3D, JMAG, FEMM 4.2; Motor-CAD, ANSYS Mechanical; SolidWorks, AutoCAD, SpaceClaim; C/C++ on TI C2000 and STM32. *Languages:* Mandarin Chinese (native), English (full professional proficiency).
 
 == Research Publications
-#h(0.6em) 23 journal papers (19 in IEEE Transactions, 11 as first author), 18 peer-reviewed conference papers and 9 granted patents.
+#h(0.6em) 24 journal papers (20 in IEEE Transactions, 11 as first author), 18 peer-reviewed conference papers and 9 granted patents.
 
 #cventry(
-  tl: "Journal Papers (23 papers, 19 in IEEE Transactions)",
+  tl: "Journal Papers (24 papers, 20 in IEEE Transactions)",
   tr: " ",
 )[
 #set enum(numbering: "[J1]")
@@ -128,6 +128,7 @@
   [J. Chen, W. Hua, L. Shao, Z. Wu, X. Yan, and *Wentao Zhang*, "Modified Magnetic Equivalent Circuit of Double-Stator Single-Rotor Axial Flux Permanent Magnet Machine Considering Stator Radial-End Flux-Leakage," _IET Electr. Power Appl._, vol. 18, no. 2, pp. 195--207, Feb. 2024.],
   [Z. Wu, X. Yan, Z. Wang, *Wentao Zhang*, and W. Hua, "*Influence of PWM Excitation on Loss and Temperature of Flat Wire Permanent Magnet Machines for Electric Vehicles*," _IEEE Trans. Ind. Electron._, vol. 73, no. 4, pp. 5174--5185, Apr. 2026.],
   [Z. Wu, E. Fu, J. Du, *Wentao Zhang*, and W. Hua, "*Quantitative Comparison of Electromagnetic Vibration of PMSMs With Glued and Welded Stator Core for Electric Vehicles*," _IEEE Trans. Ind. Appl._, early access, 2025.],
+  [Z. Wu, *Wentao Zhang*, and W. Hua, "*Design, Analysis and Performance Evaluation of Hairpin Winding Permanent Magnet Machines*," _IEEE Trans. Transport. Electrific._, accepted for publication, 2026.],
 )
 ]
 
