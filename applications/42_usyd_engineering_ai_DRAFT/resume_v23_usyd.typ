@@ -10,33 +10,6 @@
 - E-mail: wentao.zhang\@nottingham.ac.uk · Tel: (+44) 7402 114 543 · Address: Nottingham, United Kingdom
 - #lk("https://orcid.org/0000-0003-1438-9056", "ORCID 0000-0003-1438-9056") · #lk("https://scholar.google.com/citations?user=NBSq6aUAAAAJ", "Google Scholar profile")
 
-== Profile
-- *Research focus:* physics-informed AI for the design and validation of electrical machines and drives, the energy converters behind electric transport, renewable generation and robotics. Learned models are built on my own finite element solver and checked against measurements from built prototypes.
-- *Record:* 24 journal papers (*20 in IEEE Transactions, 11 as first author*), 18 peer-reviewed conference papers, *9 granted patents*; 2025 IEEE Trans. Transportation Electrification Prize Paper Award; 2025 IEEE TEC Electric Vehicle Design Competition, 1#super[st] Prize; 2025 MDPI _Machines_ Best PhD Thesis Award.
-- *Industrial translation:* technical lead, with *Inovance*, for two high-speed EV traction machines (18,000 and 20,000 rpm) taken from specification through drawing and tolerance release and supplier manufacture to AVL dynamometer validation.
-- *Career stage (relative to opportunity):* PhD awarded September 2025; one year of postdoctoral employment at the time of application.
-
-== Research Plan and Funding Strategy (first five years)
-#h(1em)*Aim:* AI models of electrical machines and drives that engineers can trust to make decisions, because each learned model is tied to physics and checked against measurement from the built machine.
-
-- *Theme 1, building physics-informed field surrogates (Build AI).* Extend the field-level surrogate [C1] to operator learning across machine topologies, with uncertainty quantification and active learning so that the finite element solver is called only where the model is unsure.
-- *Theme 2, measurement-calibrated digital twins (Leverage AI).* Couple the surrogate with the validated thermal [J10], [J12] and mechanical [J11] models, and update the twin from test-bench and in-service data for derating, condition monitoring and life prediction in electrified mining, heavy transport and renewable generation.
-- *Theme 3, AI agents for engineering design, and where they fail (Understand AI).* Agents that set up, run and check simulations, studied with benchmark tasks that record where their answers break physical laws or measured behaviour.
-- *Funding route.* Year 1: *ARC DECRA* (eligible, PhD 2025) and University start-up support. Years 1 to 3: *ARC Linkage* and *CRC-P* projects with industry in electrified mining, transport and energy. Years 3 to 5: *ARC Discovery* and industry co-funded PhD scholarships, with links to the Net Zero Institute and the Australian Centre for Robotics.
-
-== Work Experience
-#cventry(
-  tl: "University of Nottingham",
-  tr: "2025/09 - present",
-  bl: "Research Assistant, Power Electronics and Machines Centre (PEMC)",
-  br: "Nottingham, United Kingdom",
-)[
-  - Working on next-generation magnet-free synchronous machines within the EPSRC-funded Sustainable Multi-Sector Electrification Using Advanced Integrated Motor Drive Technologies (AIMD) programme (Nottingham, Bristol, Newcastle).
-  - Developing an *in-house finite element code package* in Python for electromagnetic, structural-modal and mechanical-stress analysis of electrical machines, including geometry and mesh generation, solver and post-processing.
-  - Extending *physics-informed neural surrogates* (deep learning-based magnetic field models) to replace expensive FEA evaluations, enabling rapid design-space exploration and topology trade studies.
-  - Leading a project on *LLM-agent-assisted design and training of physics-informed surrogates* (PINNs, Transformers).
-]
-
 == Education
 
 #cventry(
@@ -45,11 +18,9 @@
   bl: "Ph.D. in Electrical Engineering",
   br: "Nanjing, Jiangsu, China",
 )[
-  - Dissertation: "Multi-physics Analysis and Design of Hairpin Winding PM Traction Machines in Electric Vehicles", combining electromagnetic, thermal, fluid and structural-mechanical design of rotating machines with manufacturing constraints.
+  - Dissertation: "Multi-physics Analysis and Design of Hairpin Winding PM Traction Machines in Electric Vehicles".
   - *Industrial prototype development with Inovance* (world-leading EV traction machine supplier): technical lead for two high-speed oil-cooled PM traction machines taken through the full design-build-test cycle. *20,000 rpm, A-class:* 270 kW, 380 Nm, 7.87 kW/kg, 97.4% peak efficiency. *18,000 rpm, A0-class:* 113 kW, 138 Nm, 7.78 kW/kg, 95.3% peak efficiency (all measured).
   - *Design:* multi-objective optimisation coupling fast index models, electromagnetic FEA, thermal networks and stress evaluation. *Manufacture:* engineering drawing and tolerance release; coordination of external suppliers for machining, lamination stacking, hairpin forming and assembly. *Test:* AVL dynamometer characterisation (efficiency maps, thermocouple and waveform data) used to validate the design models.
-  - 2025 1#super[st] Prize, IEEE TEC Electric Vehicle Design Competition.
-  - 2025 2#super[nd] Prize Paper Award, IEEE Transactions on Transportation Electrification.
   - 2025 MDPI _Machines_ Best PhD Thesis Award (awarded for this doctoral thesis).
 ]
 
@@ -60,7 +31,7 @@
   br: "Nanjing, Jiangsu, China",
 )[
   - Dissertation: "Analysis and Design of High-Performance Wound-Excited Magnetic Field Modulation-based Brushless Machines".
-  - 2023 1#super[st] Prize, IEEE IAS CMD Thesis Contest; 2022 Outstanding Master Degree Thesis, Jiangsu Province.
+  - 1#super[st] Prize, IEEE IAS CMD Thesis Contest, 2023, and Outstanding Master Degree Thesis Award, Jiangsu Province, 2022 (both for this thesis).
 ]
 
 #cventry(
@@ -72,32 +43,66 @@
   - Dissertation: "Comparative Study of Control Systems for PM Machine in Electric Vehicles".
 ]
 
+== Work Experience
+#cventry(
+  tl: "University of Nottingham",
+  tr: "2025/09 - present",
+  bl: "Research Assistant, Power Electronics and Machines Centre (PEMC)",
+  br: "Nottingham, United Kingdom",
+)[
+  - Working on next-generation magnet-free synchronous machines within the EPSRC-funded Sustainable Multi-Sector Electrification Using Advanced Integrated Motor Drive Technologies (AIMD) programme (Nottingham, Bristol, Newcastle).
+  - Developing an *in-house finite element code package* in Python for electromagnetic, structural-modal and mechanical-stress analysis of electrical machines, including geometry and mesh generation, solver and post-processing.
+  - Extending *physics-informed neural surrogates* to replace expensive FEA in design-space exploration.
+  - Leading a project on *LLM-agent-assisted design and training of physics-informed surrogates* (PINNs, Transformers).
+]
+
+== Research Profile
+- *Area.* Physics-informed AI for the design and validation of electrical machines and drives, the energy converters behind electric transport, renewable generation and robotics.
+- *Connection to AI.* _Build:_ field-level deep-learning surrogates trained on my own finite element solver [C1]. _Leverage:_ hybrid AI-plus-physics design optimisation [J6], [P3] and digital twins checked against prototype measurements [J10], [J11]. _Understand:_ where LLM agents running engineering simulations break physics or disagree with measurement (current project).
+- *Relative to opportunity.* PhD awarded September 2025; the record below (24 journal papers, 20 in IEEE Transactions, 11 as first author) was built over doctoral study and one year of postdoctoral employment.
+
 == Research Funding
-- *N-ZEEE Flexible Funding award* (Net-Zero Enabling Electrical Engineering network, 2026), *£2,700*, approved by the network's selection panel on my proposal, to present a paper at IEEE ICEMS 2026 (Singapore, 24 to 27 November 2026) and attend its tutorial day.
-- *OpenAI Researcher Access Program* (2026): in-kind API credits for a six-month project I lead on LLM-agent-assisted design and training of physics-informed surrogate models.
+- *N-ZEEE Flexible Funding award* (Net-Zero Enabling Electrical Engineering network, 2026), *£2,700*, approved by the network's selection panel on my proposal, to present [C2] at IEEE ICEMS 2026 (Singapore, 24 to 27 November 2026) and attend its tutorial day.
+- *OpenAI Researcher Access Program* (2026): in-kind API credits for the LLM-agent surrogate project I lead.
 - *Participating researcher* on externally funded programmes: the EPSRC *AIMD* programme at Nottingham (2025 to present) and the *Inovance*-funded traction-machine development programme at Southeast University (2021 to 2025).
+
+== Research Plan and Funding Strategy (first five years)
+#h(1em)*Aim:* AI models of electrical machines and drives that engineers can trust to make decisions, because each learned model is tied to physics and checked against measurement from the built machine.
+
+- *Theme 1, building physics-informed field surrogates (Build AI).* Extend the surrogate [C1] to operator learning across topologies, with uncertainty quantification and active learning.
+- *Theme 2, measurement-calibrated digital twins (Leverage AI).* Couple the surrogate with the validated thermal [J10], [J12] and mechanical [J11] models, and update the twin from test-bench and in-service data for derating, condition monitoring and life prediction in electrified mining, heavy transport and renewable generation.
+- *Theme 3, AI agents for engineering design, and where they fail (Understand AI).* Benchmarks of where simulation-running agents break physics or disagree with measurement.
+- *Funding route.* Year 1: *ARC DECRA* (eligible, PhD 2025) and University start-up support. Years 1 to 3: *ARC Linkage* and *CRC-P* projects with industry in electrified mining, transport and energy. Years 3 to 5: *ARC Discovery* and industry co-funded PhD scholarships, with links to the Net Zero Institute and the Australian Centre for Robotics.
 
 == Teaching and Supervision
 - *Teaching assistant*, SEU postgraduate course _Integrated Practice of Electrical Machine Systems_ (2021 to 2025): tutorial preparation and delivery, Q&A and consultation hours, structured written feedback on student final-project proposals, and mark recommendations; developed tutorial and assessment materials and research-derived resources (a coupled electromagnetic-thermal modelling exercise and an embedded motor-drive practical).
-- *Informal supervision* of junior PhD and MSc colleagues on machine modelling, finite element analysis, thermal-network construction and PWM-loss coupling, reflected in the co-authorship of the publications above.
+- *Informal supervision* of junior PhD and MSc colleagues in machine modelling, FEA and thermal networks.
 
 == Professional Activities
 - *Referee* for IEEE Transactions journals, including _IEEE Trans. Industry Applications_, _IEEE Trans. Energy Conversion_ and _IEEE Trans. Transportation Electrification_.
 - *Co-Organiser and Co-Chair*, ICEM 2026 Special Session "Next-Generation Electrified Transport: Advances in Electric Drive Systems", Funchal, Portugal, September 2026 (with Dr Lingyun Shao, NUAA).
 
-== Other Awards
-- 2024 2#super[nd] Prize, 11#super[th] Energy Equipment Innovative Design Competition for China Postgraduate; 2023 CIEEC Best Paper Award; 2023 Wiscom System Scholarship; 2023 1#super[st] Prize Academic Scholarship.
+== Awards and Honours
+- 2025 *1#super[st] Prize, IEEE TEC Electric Vehicle Design Competition*.
+- 2025 *2#super[nd] Prize Paper Award, IEEE Transactions on Transportation Electrification* (for first-author paper [J5]).
+- 2025 *MDPI _Machines_ Best PhD Thesis Award*.
+- 2024 2#super[nd] Prize, 11#super[th] Energy Equipment Innovative Design Competition for China Postgraduate.
+- 2023 CIEEC Best Paper Award.
+- 2023 1#super[st] Prize, IEEE IAS CMD Thesis Contest.
+- 2023 Wiscom System Scholarship.
+- 2023 1#super[st] Prize Academic Scholarship.
+- 2022 Outstanding Master Degree Thesis Award, Jiangsu Province.
 
 == Research and Technical Expertise
-- *Physics-informed and hybrid AI.* Deep-learning magnetic field surrogate with implicit physics-knowledge embedding [C1], predicting the full vector potential field so torque, flux linkage and iron loss follow from FEA post-processing: R#super[2] = 0.9996 (torque) and 0.9730 (iron loss) on unseen designs, *more than 94% faster* than FEA. Hybrid optimisation framework cutting a 67-hour FEA optimisation to 2.3 hours [J6]; patented *dual-model* performance-database method [P3].
-- *Validated multi-physics digital twins.* Lumped-parameter thermal network with fluid-solid oil cooling, conductor-level temperatures in seconds, *validated against thermocouples across the full operating map* [J10]; transient thermal model [J12] and patented construction method [P4]; rotor stress and modal models verified by a *22,500 rpm overspeed test* [J11]; inverter PWM effects on machine loss and temperature [J22].
-- *Design for manufacture.* _n_-layer flat-wire (hairpin) winding methodology built around forming limits [J5] (Prize Paper Award); glued versus welded stator cores and vibration [J23]; *engineering drawing and tolerance release*; supplier coordination for machining, lamination stacking, hairpin forming, magnets and assembly.
-- *In-house FE code and 2D/3D FEA.* Author of a Python FE package (mesh generation, electromagnetic, structural-modal and stress solvers, post-processing); 3D end-effect analysis in ANSYS Maxwell and JMAG [J9].
+- *Physics-informed and hybrid AI.* Full-field magnetic surrogate [C1]: R#super[2] = 0.9996 (torque) and 0.9730 (iron loss) on unseen designs, *more than 94% faster* than FEA. Hybrid optimisation cutting 67 h of FEA to 2.3 h [J6]; *dual-model* database patent [P3].
+- *Validated multi-physics digital twins.* Oil-cooled thermal network *validated against thermocouples across the full operating map* [J10], [J12], [P4]; rotor stress models verified by a *22,500 rpm overspeed test* [J11]; PWM effects on loss and temperature [J22].
+- *Design for manufacture.* _n_-layer flat-wire (hairpin) winding methodology built around forming limits [J5] (Prize Paper Award); glued versus welded stator cores and vibration [J23]; bridge-retained versus carbon-fibre-sleeved IPM rotors [C2].
+- *2D/3D FEA.* In-house Python FE package (see Work Experience); 3D end-effect analysis in ANSYS Maxwell and JMAG [J9].
 - *Machine design and test.* IPM, SPM, wound-field and hybrid-excitation machines; AC copper and PWM iron losses; AVL dynamometer testing (efficiency maps, thermocouple instrumentation, acoustics); design and commissioning of a *three-phase full-bridge converter* and its control.
 - *Software.* Python, PyTorch, MATLAB/Simulink; ANSYS Maxwell 2D/3D, JMAG, FEMM 4.2; Motor-CAD, ANSYS Mechanical; SolidWorks, AutoCAD, SpaceClaim; C/C++ on TI C2000 and STM32. *Languages:* Mandarin Chinese (native), English (full professional proficiency).
 
 == Research Publications
-#h(0.6em) 24 journal papers (20 in IEEE Transactions, 11 as first author), 18 peer-reviewed conference papers and 9 granted patents.
+#h(0.6em) 24 journal papers (20 in IEEE Transactions, 11 as first author), 19 peer-reviewed conference papers and 9 granted patents.
 
 #cventry(
   tl: "Journal Papers (24 papers, 20 in IEEE Transactions)",
@@ -133,12 +138,13 @@
 ]
 
 #cventry(
-  tl: "Conference Papers (18 papers)",
+  tl: "Conference Papers (19 papers)",
   tr: " ",
 )[
   #set enum(numbering: "[C1]")
   #enum(
     [*Wentao Zhang*, Z. Wu and W. Hua, "*A Deep Learning Based Magnetic Field Surrogate Modeling Method for Interior Permanent Magnet Machine in EVs*," in _Proc. Int. Conf. Elect. Mach. (ICEM)_, Funchal, Madeira, Portugal, 2026. (Accepted.)],
+    [*Wentao Zhang*, Z. Wu and W. Hua, "Comparative Investigation of Bridge-Retained and Carbon Fiber Sleeved Interior Permanent Magnet Machines in Electric Vehicles," in _Proc. Int. Conf. Elect. Mach. Syst. (ICEMS)_, Singapore, 2026. (Accepted.)],
     [*Wentao Zhang*, Z. Wu, W. Hua and Z. Zhu, "Reduction of Open-Circuit DC Winding Induced Voltage and Torque Pulsation in the Wound Field Switched Flux Machine by Stator Axial Pairing of Tooth-Tips," in _Proc. IEEE Int. Elect. Mach. Drives Conf._, Gothenburg, Sweden, 2020, pp. 522--528.],
     [*Wentao Zhang*, Z. Wu, Y. Fan, W. Hua and M. Cheng, "A Stable and Computationally Efficient Spatial Harmonic Model for Predicting the DC Winding Induced Voltage in WFSF Machine," in _Proc. IEEE Energy Convers. Congr. Expo._, Detroit, MI, USA, 2022, pp. 1--7.],
     [*Wentao Zhang*, Z. Wu, W. Hua, Y. Fan, Z. Xu and M. Cheng, "Design Tradeoff between Flux Regulation Capability and DC Winding Induced Voltage in Hybrid Excitation Switched Flux Machine," in _Proc. IEEE Energy Convers. Congr. Expo._, Nashville, TN, USA, 2023, pp. 5060--5066.],

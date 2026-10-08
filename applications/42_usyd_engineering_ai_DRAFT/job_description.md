@@ -28,7 +28,7 @@ University context verified 8 Oct 2026: School of ECE emphasises future energy n
 | Criterion | Evidence | Where |
 |---|---|---|
 | PhD | PhD EE, SEU, Sep 2025; MDPI *Machines* Best PhD Thesis Award 2025 | CV |
-| Track record (relative to opportunity) | 24 J (20 IEEE Trans, 11 first-author; [J24] accepted 7 Oct 2026), 18 C, 9 patents in 1 yr post-PhD; TTE Prize Paper; IEEE TEC EV Design 1st Prize | CV Profile, RS §Track record |
+| Track record (relative to opportunity) | 24 J (20 IEEE Trans, 11 first-author; [J24] accepted 7 Oct 2026), 19 C, 9 patents in 1 yr post-PhD; TTE Prize Paper; IEEE TEC EV Design 1st Prize | CV Profile, RS §Track record |
 | AI: Build | Field-level surrogate [C1] (R² 0.9996, >94% faster); in-house Python FE package; planned operator learning + UQ | RS Theme 1 |
 | AI: Leverage | Hybrid optimisation [J6] 67 h → 2.3 h; dual-model patent [P3]; digital twins [J10]/[J11]/[J12] | RS Theme 2 |
 | AI: Understand | OpenAI-supported LLM-agent project; benchmark of agent failure modes vs physics/measurement | RS Theme 3 |
@@ -49,9 +49,9 @@ University context verified 8 Oct 2026: School of ECE emphasises future energy n
 
 ## Open questions for Wentao (before submission)
 
-1. ~~ICEMS 2026~~ Resolved 8 Oct: presenting a paper (not yet published). CV/RS say "present a paper". Title and authors needed if it is to be listed as [C19] (Accepted).
-2. **ICEM 2026 [C1]:** the conference was in Sep 2026. Was it presented, and is it now in IEEE Xplore (drop "Accepted", add pages)?
-3. **Referees (deferred by Wentao, 8 Oct):** keep the three SEU referees (Wu, Cheng, Hua), or replace one with a Nottingham/PEMC line manager? Australian panels usually expect the current supervisor.
+1. ~~ICEMS 2026~~ Resolved 8 Oct: presenting [C2] W. Zhang, Z. Wu, W. Hua, "Comparative Investigation of Bridge-Retained and Carbon Fiber Sleeved Interior Permanent Magnet Machines in Electric Vehicles," ICEMS 2026, Singapore (digest TEMS-2026-0824 accepted; full paper not yet published). Inserted as [C2] in the first-author block; old C2–C18 shifted to C3–C19 (only [C1] is cited in the text, so no other edits needed).
+2. **⚠ NOT FIXED YET (8 Oct): ICEM 2026 [C1]:** the conference was in Sep 2026. Was it presented, and is it now in IEEE Xplore (drop "Accepted", add pages)?
+3. **⚠ NOT FIXED YET (8 Oct): Referees (deferred by Wentao):** keep the three SEU referees (Wu, Cheng, Hua), or replace one with a Nottingham/PEMC line manager? Australian panels usually expect the current supervisor.
 4. **Target School:** ECE (default) or AMME? The application form may ask.
 5. ~~Cover letter~~ Drafted 8 Oct: `cover_letter_usyd.typ`.
-6. ~~New publications~~ Resolved 8 Oct: [J24] Z. Wu, W. Zhang, W. Hua, "Design, Analysis and Performance Evaluation of Hairpin Winding Permanent Magnet Machines," IEEE TTE, accepted 7 Oct 2026 (no DOI yet). Counts now 24 J / 20 IEEE Trans / 11 first-author / 18 C / 9 P.
+6. ~~New publications~~ Resolved 8 Oct: [J24] Z. Wu, W. Zhang, W. Hua, "Design, Analysis and Performance Evaluation of Hairpin Winding Permanent Magnet Machines," IEEE TTE, accepted 7 Oct 2026 (no DOI yet). Counts now 24 J / 20 IEEE Trans / 11 first-author / 19 C / 9 P (after [C2] ICEMS added).
